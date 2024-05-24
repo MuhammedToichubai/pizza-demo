@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: pizza-demo
+  flyway:
+    locations: db/migration/v1
+    enabled: true
+server:
+  port: 8088

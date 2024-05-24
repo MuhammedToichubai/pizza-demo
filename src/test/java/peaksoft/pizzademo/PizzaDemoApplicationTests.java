@@ -1,0 +1,13 @@
+package peaksoft.pizzademo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PizzaDemoApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
